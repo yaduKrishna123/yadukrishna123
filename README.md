@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadukrishna123&label=Profile%20views&color=0e75b6&style=flat" alt="yadukrishna123" /> </p>
 
-- 🔭 I’m currently working on [LuminarTechnolab](MERN Intern)
+- 🔭 Fullstack Developer 
 
 - 🌱 I’m currently learning **VueJs,ReactJs**
 
